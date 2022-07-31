@@ -1,6 +1,4 @@
 
-# C:\Users\Usuário\Desktop\Meus Cod\PrimeiroJs\PrimeiroJS\img\Relogio.png
-
 
 Enfim fiz meu primeiro projeto
 
