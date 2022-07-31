@@ -1,4 +1,4 @@
-![RafaelMartins5](https://github.com/RafaelMartins5/PrimeiroJS/issues/1#issue-1323566967)
+> ![Relogio](https://user-images.githubusercontent.com/86852900/182043862-acc82538-09f3-48bd-907e-e0e3bb5acbb1.png)
 Enfim fiz meu primeiro projeto
 
 um Relogio aprendi assistindo aula do canal Dev School, 
